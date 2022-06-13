@@ -2,7 +2,7 @@
 - 👀 I’m interested in pharmacy and learning computer languages
 - 🌱 I’m currently learning r studio and python
 - 💞️ I’m looking to collaborate on project related to the field of pharmacy
-- 📫 How to reach me parabtanay995@gmai.com
+- 📫 How to reach me parabtanay995@gmail.com
 
 <!---
 paratron-lab/paratron-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
